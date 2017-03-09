@@ -1,0 +1,4 @@
+services\PersonServicesEJBLocal.class
+services\PersonServicesEJB.class
+services\PersonServicesEJBRemote.class
+entities\Person.class
